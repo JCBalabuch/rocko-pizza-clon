@@ -18,7 +18,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
           <Route path='services' element={<Services />}/>
           <Route path='menu' element={<Menu />}/>
           <Route path='contact' element={<Contact />}/>
-          <Route path='notfound' element={<NotFound />}/>
+          <Route path='*' element={<NotFound />}/>
         </Route>
       </Routes>
     </BrowserRouter>
