@@ -20,7 +20,8 @@ Dejamos las 3 páginas.
 - Adrián => NotFound & colors
 
 ## Ideas
-- Hero con img completa
+- Hero con img completa.
+- Realizar un carrito.
 
 ## Componentes
 1. Botton

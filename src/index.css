@@ -1,4 +1,32 @@
-*{
+:root {
+    /* COLORS */
+    --cream: #f7f0e7;
+    --dominant-00: #3a3a3a;
+    --dominant-01: #ffffff;
+    --basic-01: #fffdf7;
+    --basic-02: #fffdf7;
+    --basic-03: #f6f6f6;
+    --secondary-01: #f9dbb3;
+    --secondary-02: #d68e3f;
+    --secondary-03: #dc8330;
+    --secondary-04: #b56e27;
+    --accent-01: #fdf38d;
+    --accent-02: #fbe64d;
+    --accent-03: #dfce44;
+    /* TYPOGRAPHY */
+    --main-typography: 'Nunito Sans', sans-serif;
+    --accent-typography: 'Young Serif', serif;
+
+    --size-small-01: .875rem;
+    --size-small-02: 1rem;
+    --size-medium-01: 1.25rem;
+    --size-medium-02: 1.5rem;
+    --size-large-01: 3rem;
+    --size-large-02: 4rem;
+    /* URLS */
+}
+
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
