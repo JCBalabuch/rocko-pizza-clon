@@ -1,10 +1,10 @@
 # Rocko Pizza
 
 ## Colors
-https://www.behance.net/gallery/177864647/Pizza-website-redesign
+- https://www.behance.net/gallery/177864647/Pizza-website-redesign
 
 ## Estructura
-https://pymesworld.com/demo/diseno-web-para-pizzerias-pz05/
+- https://fooddy.ancorathemes.com/
 
 ## Pages
 1. Inicio - Home (Home 2)

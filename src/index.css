@@ -35,3 +35,7 @@
     box-shadow: none;
     text-align: center;
 }
+
+body {
+    font-family: var(--main-typography);
+}
